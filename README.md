@@ -11,25 +11,25 @@ The script allows you to:
 ## Gallery
 
 ### Buenos Aires
-![Buenos Aires](buenosD.png)
+![Buenos Aires](images/buenosD.png)
 
 ### Hong Kong
-![Hong Kong](hongkonkD.png)
+![Hong Kong](images/hongkonkD.png)
 
 ### Kyiv
-![Kyiv](kyivD.png)
+![Kyiv](images/kyivD.png)
 
 ### Moscow
-![Moscow](moscowD.png)
+![Moscow](images/moscowD.png)
 
 ### Pyongyang
-![Pyongyang](pyongyangD.png)
+![Pyongyang](images/pyongyangD.png)
 
 ### Seoul
-![Seoul](seoulD.png)
+![Seoul](images/seoulD.png)
 
 ### Tokyo
-![Tokyo](tokyoD.png)
+![Tokyo](images/tokyoD.png)
 
 ## Prerequisites
 
