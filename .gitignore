@@ -1,0 +1,6 @@
+*.jpeg
+*.jpg
+tiles_tmp/
+.venv/
+.DS_Store
+.vscode/
